@@ -1,0 +1,7 @@
+/* arabic */
+@font-face {
+  font-family: 'sh_mushaf';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Shaikh Hamdullah Mushaf'), url(../fonts/arabic/ShaikhHamdullahMushaf.woff2) format('woff2');
+}
