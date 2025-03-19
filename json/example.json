@@ -1,0 +1,287 @@
+[
+  {
+    "_id": "5ce87cf7b32090590afeaf94",
+    "index": 0,
+    "guid": "b8fa8305-85fc-4b60-9e98-8a6669f3cad1",
+    "isActive": false,
+    "balance": "$1,707.51",
+    "picture": "http://placehold.it/32x32",
+    "age": 24,
+    "eyeColor": "brown",
+    "name": {
+      "first": "Cline",
+      "last": "Watts"
+    },
+    "company": "RAMEON",
+    "email": "cline.watts@rameon.me",
+    "phone": "+1 (914) 477-2926",
+    "address": "292 Withers Street, Cecilia, Iowa, 6701",
+    "about": "Ipsum elit amet fugiat cillum et consectetur consequat eu do aute officia et. Cillum eu ex ea officia. Sunt sunt exercitation in velit occaecat ea. Ex eu ullamco aliqua in aliqua deserunt laborum dolor mollit voluptate. Quis in reprehenderit duis nulla.",
+    "registered": "Friday, January 29, 2016 7:00 PM",
+    "latitude": "15.688408",
+    "longitude": "-101.869913",
+    "tags": [
+      "veniam",
+      "ex",
+      "consectetur",
+      "cupidatat",
+      "velit"
+    ],
+    "range": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Miranda Burns"
+      },
+      {
+        "id": 1,
+        "name": "Alejandra Moore"
+      },
+      {
+        "id": 2,
+        "name": "Lou Conrad"
+      }
+    ],
+    "greeting": "Hello, Cline! You have 8 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "5ce87cf7a456770de5daa34b",
+    "index": 1,
+    "guid": "628dfebc-b8d1-4b5f-89c4-bd3a7035b4d5",
+    "isActive": true,
+    "balance": "$2,963.58",
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "eyeColor": "blue",
+    "name": {
+      "first": "Bonner",
+      "last": "Wade"
+    },
+    "company": "TALKALOT",
+    "email": "bonner.wade@talkalot.info",
+    "phone": "+1 (893) 549-2643",
+    "address": "248 Manor Court, Hemlock, Maine, 450",
+    "about": "Dolore deserunt proident consequat excepteur Lorem pariatur aute pariatur incididunt cillum. Pariatur qui exercitation ipsum tempor eiusmod ipsum proident aute occaecat in. Anim et cillum cillum veniam nulla exercitation tempor Lorem id duis laborum fugiat. Duis culpa mollit cillum aliquip fugiat ad magna non non culpa tempor mollit. Magna ipsum dolor est velit ad laborum nisi sint duis sunt sunt. Dolore cillum reprehenderit sint ipsum duis nisi. Aute in aliqua aute incididunt ea anim est.",
+    "registered": "Sunday, March 27, 2016 3:41 PM",
+    "latitude": "-73.727083",
+    "longitude": "-19.201859",
+    "tags": [
+      "sint",
+      "eu",
+      "amet",
+      "sit",
+      "aute"
+    ],
+    "range": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Harrington Hartman"
+      },
+      {
+        "id": 1,
+        "name": "Lowery Horne"
+      },
+      {
+        "id": 2,
+        "name": "Rowe Hurst"
+      }
+    ],
+    "greeting": "Hello, Bonner! You have 10 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5ce87cf7679e1fc44239bc9d",
+    "index": 2,
+    "guid": "d5e9c8b8-eebf-44eb-9019-a3bf53e869ba",
+    "isActive": false,
+    "balance": "$1,455.48",
+    "picture": "http://placehold.it/32x32",
+    "age": 32,
+    "eyeColor": "brown",
+    "name": {
+      "first": "Casandra",
+      "last": "Delacruz"
+    },
+    "company": "GEEKY",
+    "email": "casandra.delacruz@geeky.ca",
+    "phone": "+1 (807) 522-2386",
+    "address": "802 Fillmore Avenue, Chilton, Arizona, 6329",
+    "about": "Sit enim sunt adipisicing nostrud anim elit mollit mollit adipisicing. Laboris est do tempor ut deserunt amet veniam. Ullamco consectetur veniam officia aliqua dolor cupidatat sit do nulla. Reprehenderit mollit exercitation nulla nulla amet ad esse reprehenderit adipisicing aliquip. Laborum id eiusmod minim cupidatat id laboris labore. Quis irure voluptate officia dolor proident esse est consectetur anim irure reprehenderit. Quis in irure elit do excepteur aliqua est nostrud aliqua ad veniam minim occaecat officia.",
+    "registered": "Saturday, August 16, 2014 11:47 AM",
+    "latitude": "-2.816929",
+    "longitude": "136.031708",
+    "tags": [
+      "sint",
+      "proident",
+      "ea",
+      "velit",
+      "ad"
+    ],
+    "range": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Elnora Davis"
+      },
+      {
+        "id": 1,
+        "name": "Karina Jacobson"
+      },
+      {
+        "id": 2,
+        "name": "Misty Parker"
+      }
+    ],
+    "greeting": "Hello, Casandra! You have 8 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5ce87cf76b8e2c99806b7844",
+    "index": 3,
+    "guid": "3eabedc9-fa4d-4ac0-9b8f-2583773f1075",
+    "isActive": false,
+    "balance": "$3,418.80",
+    "picture": "http://placehold.it/32x32",
+    "age": 37,
+    "eyeColor": "green",
+    "name": {
+      "first": "Beck",
+      "last": "Madden"
+    },
+    "company": "PAPRIKUT",
+    "email": "beck.madden@paprikut.net",
+    "phone": "+1 (852) 523-2548",
+    "address": "936 Evergreen Avenue, Homeland, American Samoa, 9829",
+    "about": "Enim laboris laboris aute eiusmod sit cupidatat Lorem. Amet quis duis consectetur veniam anim laborum occaecat sit sunt ut culpa excepteur. Ex voluptate reprehenderit commodo anim sit officia veniam ex culpa nisi laboris occaecat dolore. Culpa nulla elit do Lorem reprehenderit aliquip aliqua reprehenderit ut laboris sit sunt ullamco.",
+    "registered": "Wednesday, September 9, 2015 8:13 PM",
+    "latitude": "-30.310761",
+    "longitude": "-105.228707",
+    "tags": [
+      "dolor",
+      "laboris",
+      "duis",
+      "est",
+      "sint"
+    ],
+    "range": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Jami Wheeler"
+      },
+      {
+        "id": 1,
+        "name": "Case Harvey"
+      },
+      {
+        "id": 2,
+        "name": "Pearlie Brock"
+      }
+    ],
+    "greeting": "Hello, Beck! You have 9 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5ce87cf790dcccb8f09e912a",
+    "index": 4,
+    "guid": "388b8232-b104-4454-8312-677aede48afa",
+    "isActive": true,
+    "balance": "$1,306.79",
+    "picture": "http://placehold.it/32x32",
+    "age": 37,
+    "eyeColor": "blue",
+    "name": {
+      "first": "Hayes",
+      "last": "Neal"
+    },
+    "company": "BEDDER",
+    "email": "hayes.neal@bedder.tv",
+    "phone": "+1 (811) 512-3377",
+    "address": "980 Livonia Avenue, Kenwood, Nevada, 5154",
+    "about": "Enim amet incididunt nostrud dolor ipsum ea nisi proident amet officia voluptate. Laboris et adipisicing enim et. Anim cillum anim velit aute amet qui consequat qui nostrud consectetur ullamco. Non enim pariatur voluptate in enim velit nulla quis sunt laboris laboris officia magna dolore. Cillum enim eiusmod laborum fugiat.",
+    "registered": "Monday, March 17, 2014 6:13 AM",
+    "latitude": "20.238443",
+    "longitude": "-96.964084",
+    "tags": [
+      "fugiat",
+      "qui",
+      "est",
+      "eu",
+      "tempor"
+    ],
+    "range": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Kelley Gibson"
+      },
+      {
+        "id": 1,
+        "name": "Austin Moss"
+      },
+      {
+        "id": 2,
+        "name": "Chan Strickland"
+      }
+    ],
+    "greeting": "Hello, Hayes! You have 5 unread messages.",
+    "favoriteFruit": "strawberry"
+  }
+]
